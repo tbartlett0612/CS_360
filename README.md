@@ -1,4 +1,4 @@
-<h1></h1> CS_360
+<h1>CS_360</h1> 
 
 <h2><b></b>Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?</h2>
 I chose to develop a mobile app to help keep track of events for a user. The app needed to have a login screen so multiple users could use the app for their own events. Another screen would be needed where the events then were displayed after logging in. There also needed to be a database where user login info is kept, and a database where event information is kept. There also needed to be a way to add, edit, and delete events. The app serves the putpose to help the user stay organized and be reminded (if SMS permissions were given) of upcoming events.
