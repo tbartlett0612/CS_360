@@ -1,6 +1,6 @@
 # CS_360
 
-Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+<b>Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?<b/>
 I chose to develop a mobile app to help keep track of events for a user. The app needed to have a login screen so multiple users could use the app for their own events. Another screen would be needed where the events then were displayed after logging in. There also needed to be a database where user login info is kept, and a database where event information is kept. There also needed to be a way to add, edit, and delete events. The app serves the putpose to help the user stay organized and be reminded (if SMS permissions were given) of upcoming events.
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
