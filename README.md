@@ -15,5 +15,5 @@ I was able to come up with test cases based on the requirements. Then I had my w
 <h2><b></b>Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?</h2>
 The biggest parts for me was creating the database with SQLite and also connecting the code to the UI elements. This was something that was a bit different for me than what I have done in the past with other coding sowftware in previous classes.
 
-<h2><b></b>In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?<h2></h2>
+<h2><b></b>In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?<h2>
 I feel the login screen with having the feature to register, login, and also retrieve a forgotten password was an area that showed off my knowledge and skills. It also allowed me to use the knowledge and skills of validation for validating user access based on a user name and password.
